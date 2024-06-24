@@ -1,0 +1,38 @@
+.custom-submit-button {
+    margin-right: 10px;
+    background-color: #28a745;
+    /* Màu xanh */
+    color: #ffffff;
+    /* Màu trắng */
+    border: 10px;
+    /* Không có viền */
+    padding: 10px 20px;
+    /* Padding cho nút */
+    cursor: pointer;
+    /* Con trỏ khi di chuột qua */
+    border-radius: 8px;
+}
+
+.custom-submit-button:hover {
+    background-color: #218838;
+    /* Màu xanh đậm khi di chuột qua */
+}
+
+.custom-show-button {
+    background-color: #1922d3;
+    /* Màu xanh */
+    color: #ffffff;
+    /* Màu trắng */
+    border: none;
+    /* Không có viền */
+    padding: 10px 20px;
+    /* Padding cho nút */
+    cursor: pointer;
+    /* Con trỏ khi di chuột qua */
+    border-radius: 8px;
+}
+
+.custom-show-button:hover {
+    background-color: #1922d386;
+    /* Màu xanh đậm khi di chuột qua */
+}
